@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravindrabotta
 - 👀 I’m terribly afraid of coding as I don't understand most parts of it
-- 🌱 I’m currently learning to code in Java / Scala / SQL.
+- 🌱 I’m currently learning to code in Java / Scala / SQL / Python.
 - 📫 How to reach me - https://www.linkedin.com/in/ravindra-botta/
 
 <p align="center">
